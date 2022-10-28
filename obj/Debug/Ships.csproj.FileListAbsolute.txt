@@ -1,0 +1,16 @@
+D:\2nd Semester\Week 4\Ships\bin\Debug\Ships.exe.config
+D:\2nd Semester\Week 4\Ships\bin\Debug\Ships.exe
+D:\2nd Semester\Week 4\Ships\bin\Debug\Ships.pdb
+D:\2nd Semester\Week 4\Ships\obj\Debug\Ships.csproj.AssemblyReference.cache
+D:\2nd Semester\Week 4\Ships\obj\Debug\Ships.csproj.SuggestedBindingRedirects.cache
+D:\2nd Semester\Week 4\Ships\obj\Debug\Ships.csproj.CoreCompileInputs.cache
+D:\2nd Semester\Week 4\Ships\obj\Debug\Ships.exe
+D:\2nd Semester\Week 4\Ships\obj\Debug\Ships.pdb
+D:\2nd Semester\Week 5\Ships\bin\Debug\Ships.exe.config
+D:\2nd Semester\Week 5\Ships\bin\Debug\Ships.exe
+D:\2nd Semester\Week 5\Ships\bin\Debug\Ships.pdb
+D:\2nd Semester\Week 5\Ships\obj\Debug\Ships.csproj.AssemblyReference.cache
+D:\2nd Semester\Week 5\Ships\obj\Debug\Ships.csproj.SuggestedBindingRedirects.cache
+D:\2nd Semester\Week 5\Ships\obj\Debug\Ships.csproj.CoreCompileInputs.cache
+D:\2nd Semester\Week 5\Ships\obj\Debug\Ships.exe
+D:\2nd Semester\Week 5\Ships\obj\Debug\Ships.pdb
